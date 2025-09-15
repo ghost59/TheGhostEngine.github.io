@@ -9,14 +9,14 @@
     <managingEditor>Anthony D Simmons</managingEditor>
     
       <webMaster>Anthony D Simmons</webMaster>
-    <lastBuildDate>Sun, 14 Sep 2025 19:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 20:03:12 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/en/post/ghost/my-first-post/</link>
+      <link>http://localhost:1313/en/post/my-first-post/</link>
       <pubDate>Sat, 13 Sep 2025 14:32:48 -0400</pubDate>
       <author>Anthony D Simmons</author>
-      <guid>http://localhost:1313/en/post/ghost/my-first-post/</guid>
+      <guid>http://localhost:1313/en/post/my-first-post/</guid>
       <description>&lt;p&gt;Welcome to the Ghost Engine. A space for learning and growing. A space where I talked about my quest of becoming a better programming and learning from tech founders. This is the space where I reflect and exmaine everything from coding to what tech founders have learned.&lt;/p&gt;</description>
       
     </item>
